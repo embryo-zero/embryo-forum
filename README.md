@@ -1,3 +1,10 @@
+<!-- embryo-brand -->
+# Embryo Forum
+
+**Embryo Forum** is Embryo-Zero's fork of [discourse](https://github.com/discourse/discourse), made by Embryo Zero Backyard Data Center Corporation. Our changes are on the `embryo` branch; see [EMBRYO.md](EMBRYO.md), [LEGAL.md](LEGAL.md) and [CHANGES-EMBRYO.md](CHANGES-EMBRYO.md). The original project's README follows unchanged, with its authors' credits.
+
+---
+
 <a href="https://www.discourse.org/">
   <img src="images/discourse-readme-logo.png" width="300px">
 </a>
